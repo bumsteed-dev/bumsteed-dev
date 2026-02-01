@@ -13,8 +13,3 @@ Trabajo principalmente con JavaScript, Node.js y React, aprendiendo y mejorando 
 </p>
 
 Actualmente desarrollando proyectos propios para aprender a profundidad conceptos modernos de frontend, desarrollo de APIs y despliegue en la nube. Me gusta construir herramientas pequeñas que resuelvan problemas reales y sirvan para practicar nuevas tecnologías.
-
-Proyecto público reciente:  
-[https://www.colorya.app/](https://www.colorya.app/)
-
-Siempre explorando nuevas ideas y formas de mejorar mi proceso de desarrollo.
